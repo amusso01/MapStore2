@@ -36,6 +36,12 @@
     padding-left: 5px;
 }
 
+.record-item .record-item-description {
+    display: block !important;
+    width: 65%;
+    white-space: nowrap;
+}
+
 @media(max-width:500px) {
     .record-item .preview {
         display: none;
